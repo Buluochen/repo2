@@ -24,7 +24,7 @@
         <junit.version>4.12</junit.version>
         <druid.version>1.0.9</druid.version>
         <aspect.version>1.9.2</aspect.version>
-        <jackson.version>2.9.8</jackson.version>
+        <jackson.version>2.9.10.8</jackson.version>
     </properties>
 
     <!--锁定坐标版本-->
